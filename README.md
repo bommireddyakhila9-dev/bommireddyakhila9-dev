@@ -97,6 +97,12 @@ AI-powered citizen assistance application.
 🔗 [View Project](https://github.com/bommireddyakhila9-dev/Portfolio)
 
 ---
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=bommireddyakhila9-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bommireddyakhila9-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
